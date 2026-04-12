@@ -1,0 +1,13 @@
+{
+  "name": "token-counter",
+  "description": "Real-time token usage monitoring with context breakdown and cache efficiency tracking",
+  "version": "1.0.0",
+  "author": {
+    "name": "Khaleel Ibrahim",
+    "url": "https://github.com/Khaleelibrahimofficial"
+  },
+  "homepage": "https://github.com/Khaleelibrahimofficial/token-counter-plugin",
+  "repository": "https://github.com/Khaleelibrahimofficial/token-counter-plugin",
+  "license": "MIT",
+  "keywords": ["tokens", "monitoring", "context", "cache", "claude"]
+}

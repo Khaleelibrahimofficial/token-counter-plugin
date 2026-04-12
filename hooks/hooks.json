@@ -1,0 +1,16 @@
+{
+  "Stop": [
+    {
+      "type": "command",
+      "command": "${CLAUDE_PLUGIN_ROOT}/hooks/token-count.sh",
+      "timeout": 5
+    }
+  ],
+  "StopFailure": [
+    {
+      "type": "command",
+      "command": "${CLAUDE_PLUGIN_ROOT}/hooks/token-count.sh",
+      "timeout": 5
+    }
+  ]
+}
