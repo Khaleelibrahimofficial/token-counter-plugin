@@ -1,12 +1,12 @@
 {
-  "name": "token-counter-marketplace",
+  "name": "token-counter-plugin",
   "owner": {
     "name": "Khaleel Ibrahim"
   },
   "description": "Real-time token usage monitoring plugin for Claude Code",
   "plugins": [
     {
-      "name": "token-counter",
+      "name": "token-counter-plugin",
       "description": "Real-time token usage monitoring with context breakdown and cache efficiency tracking",
       "version": "1.0.0",
       "source": "github.com/Khaleelibrahimofficial/token-counter-plugin"

@@ -1,13 +1,8 @@
 {
-  "name": "token-counter",
-  "description": "Real-time token usage monitoring with context breakdown and cache efficiency tracking",
+  "name": "token-counter-plugin",
+  "description": "Real-time token usage monitoring plugin for Claude Code",
   "version": "1.0.0",
   "author": {
-    "name": "Khaleel Ibrahim",
-    "url": "https://github.com/Khaleelibrahimofficial"
-  },
-  "homepage": "https://github.com/Khaleelibrahimofficial/token-counter-plugin",
-  "repository": "https://github.com/Khaleelibrahimofficial/token-counter-plugin",
-  "license": "MIT",
-  "keywords": ["tokens", "monitoring", "context", "cache", "claude"]
+    "name": "Khaleel Ibrahim"
+  }
 }
