@@ -9,7 +9,7 @@
       "name": "token-counter",
       "description": "Real-time token usage monitoring with context breakdown and cache efficiency tracking",
       "version": "1.0.0",
-      "source": "."
+      "repo": "Khaleelibrahimofficial/token-counter-plugin"
     }
   ]
 }
