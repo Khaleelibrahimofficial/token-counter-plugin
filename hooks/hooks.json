@@ -2,7 +2,6 @@
   "hooks": {
     "Stop": [
       {
-        "matcher": "*",
         "hooks": [
           {
             "type": "command",
@@ -14,7 +13,6 @@
     ],
     "StopFailure": [
       {
-        "matcher": "*",
         "hooks": [
           {
             "type": "command",
