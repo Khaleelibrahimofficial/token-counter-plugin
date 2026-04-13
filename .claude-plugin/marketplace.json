@@ -14,8 +14,8 @@
         "name": "Khaleel Ibrahim"
       },
       "source": {
-        "source": "github",
-        "repo": "Khaleelibrahimofficial/token-counter-plugin"
+        "source": "url",
+        "url": "https://github.com/Khaleelibrahimofficial/token-counter-plugin.git"
       }
     }
   ]
