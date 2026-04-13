@@ -1,4 +1,5 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "token-counter-marketplace",
   "owner": {
     "name": "Khaleel Ibrahim"
@@ -9,7 +10,13 @@
       "name": "token-counter-plugin",
       "description": "Real-time token usage monitoring with context breakdown and cache efficiency tracking",
       "version": "1.0.0",
-      "source": "github.com/Khaleelibrahimofficial/token-counter-plugin"
+      "author": {
+        "name": "Khaleel Ibrahim"
+      },
+      "source": {
+        "source": "github",
+        "repo": "Khaleelibrahimofficial/token-counter-plugin"
+      }
     }
   ]
 }
